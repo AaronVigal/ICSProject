@@ -1,0 +1,12 @@
+Scapy reference for Profinet:
+https://scapy.readthedocs.io/en/latest/layers/pnio.html
+
+Siemens Profinet reference:
+https://deltamotion.com/support/webhelp/rmctools/Communications/Using_Master_Controllers/Siemens_S7_PLCs_PROFINET.htm
+
+Wireshark profinet references:
+https://www.wireshark.org/docs/dfref/p/pn_io.html
+
+Helpful research:
+file:///Users/aaronvigal/Downloads/DOC190402AN01EN.pdf
+
